@@ -1,2 +1,2 @@
-def get_name: 
+def get_name(): 
   return 'Illya'
