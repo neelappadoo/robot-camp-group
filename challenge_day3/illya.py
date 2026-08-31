@@ -1,1 +1,2 @@
-print('Illya')
+def get_name: 
+  return 'Illya'
