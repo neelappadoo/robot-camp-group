@@ -1,6 +1,6 @@
 
 
-def solution_station_7(name: str) -> int:
+def solution_station_5(name: str) -> int:
     groups = {
         "1": [
             "Ainas", "Tobit", "Yasmin", "Zoë",
